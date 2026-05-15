@@ -1,6 +1,6 @@
 # 🤖 MatchCV AI
 
-[![Deploy to Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](match-cv-ai-six.vercel.app)
+[![Deploy to Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://match-cv-ai-six.vercel.app/)
 
 > Optimización de perfiles IT impulsada por Inteligencia Artificial. MatchCV es una plataforma SaaS diseñada para analizar la compatibilidad de un currículum contra cualquier vacante del mercado, brindando feedback automático para superar los filtros ATS.
 
